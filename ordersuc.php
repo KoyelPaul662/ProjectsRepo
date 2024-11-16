@@ -1,0 +1,2 @@
+<?php
+echo "YOU HAVE ORDERED SUCCESSFULLY";
